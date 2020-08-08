@@ -1,0 +1,15 @@
+body{
+    margin-top: 50px;
+  }
+  
+  .jumbotron{
+    text-align: center;
+  }
+  
+  .team-logo{
+    width: 200px;
+  }
+  
+  /*body{
+    opacity: 50%;
+  }*/
